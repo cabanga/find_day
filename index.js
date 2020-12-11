@@ -1,5 +1,5 @@
-function day_of_work( day ){
+function work_day( day ){
 
 }
 
-module.exports.day_of_work = day_of_work
+module.exports.work_day = work_day
